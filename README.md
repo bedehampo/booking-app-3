@@ -59,8 +59,8 @@ Android Studio / VS Code
 Emulator or physical device
 
 
-git clone https://github.com/yourusername/salon-booking-app.git
-cd frulo-booking-app
+git clone https://github.com/bedehampo/booking-app-3.git
+cd booking-app
 
 flutter pub get
 
